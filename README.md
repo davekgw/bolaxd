@@ -1,4 +1,4 @@
-<h1 align="center">Ada orang gak?<img src="https://i.pinimg.com/originals/c6/1e/e7/c61ee7f4221311a84dfcd466d6d14183.gif" width="30px" alt=""><br></h1>
+<h1 align="center">Ada orang gak?<img src="https://i.pinimg.com/originals/c6/1e/e7/c61ee7f4221311a84dfcd466d6d14183.gif" width="50px" alt=""><br></h1>
 <p align="center">
   <img src="https://c.tenor.com/p-tsA5hdz2cAAAAi/crying-cute-anime.gif" />
 </p> 
