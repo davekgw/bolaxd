@@ -1,4 +1,4 @@
-<h1 align="center">اَللّٰهُمَّ صَلِّ عَلى مُحَمّد<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
+<h1 align="center">اَللّٰهُمَّ صَلِّ عَلى مُحَمّد<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt=""><br></h1>
 <p align="center">
   <img src="https://c.tenor.com/p-tsA5hdz2cAAAAi/crying-cute-anime.gif" />
 </p> 
@@ -23,13 +23,14 @@
   <a href="https://github.com/bolaxd"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCMoOry9WsMmsitPkipYiROQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCMoOry9WsMmsitPkipYiROQ?style=social" /> <br>
 </p>
-### Game Mobile legend
+
+### Game ML
 <p align="center">
   <img src="https://c.tenor.com/UZQmWvS7m3IAAAAM/layla-mlbb.gif" />
 </p>
 ------
 
-### Lagu Favorite
+### Favorite lagu
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
