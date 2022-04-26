@@ -47,7 +47,3 @@
 
 </details>
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-</details>
