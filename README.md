@@ -33,7 +33,7 @@
 ### Favorite lagu
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="Bruno Mars https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
