@@ -16,12 +16,11 @@
 ### Saia ON juga di
 <p align="center">
   <a href="https://instagram.com/iqblsh77"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <br>
-  <a href="https://api.whatsapp.com/send/?phone=6281949742417&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <br>
-  <a href="https://youtube.com/channel/UCMoOry9WsMmsitPkipYiROQ"><img src="https://img.shields.io/badge/YouTube-ball%20amv id-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCMoOry9WsMmsitPkipYiROQ" /><br>
-  <a name=bolaxd&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/bolaxd"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://api.whatsapp.com/send/?phone=6281949742417&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
   <a href="https://youtube.com/channel/UCMoOry9WsMmsitPkipYiROQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCMoOry9WsMmsitPkipYiROQ?style=social" /> <br>
+  <a href="https://youtube.com/channel/UCMoOry9WsMmsitPkipYiROQ"><img src="https://img.shields.io/badge/YouTube-ball%20amv id-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCMoOry9WsMmsitPkipYiROQ" /><br>
+  <a name=bolaxd&label=VIEWS&style=flat-square&color=orange" /> <br>
+  <a href="https://github.com/bolaxd"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 </p>
 
 ------
